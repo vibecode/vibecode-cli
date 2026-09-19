@@ -36,11 +36,11 @@ If the command is not found, detect the platform and install from the correct UR
 
 | Platform | URL |
 |---|---|
-| macOS Apple Silicon | `https://github.com/vibecode/vibecode-cli/releases/download/v0.1.0/vibecode-cli-darwin-arm64` |
-| macOS Intel | `https://github.com/vibecode/vibecode-cli/releases/download/v0.1.0/vibecode-cli-darwin-amd64` |
-| Linux x86_64 | `https://github.com/vibecode/vibecode-cli/releases/download/v0.1.0/vibecode-cli-linux-amd64` |
-| Linux arm64 | `https://github.com/vibecode/vibecode-cli/releases/download/v0.1.0/vibecode-cli-linux-arm64` |
-| Windows x86_64 | `https://github.com/vibecode/vibecode-cli/releases/download/v0.1.0/vibecode-cli-windows-amd64` |
+| macOS Apple Silicon | `https://github.com/vibecode/vibecode-cli/releases/download/v0.2.0/vibecode-cli-darwin-arm64` |
+| macOS Intel | `https://github.com/vibecode/vibecode-cli/releases/download/v0.2.0/vibecode-cli-darwin-amd64` |
+| Linux x86_64 | `https://github.com/vibecode/vibecode-cli/releases/download/v0.2.0/vibecode-cli-linux-amd64` |
+| Linux arm64 | `https://github.com/vibecode/vibecode-cli/releases/download/v0.2.0/vibecode-cli-linux-arm64` |
+| Windows x86_64 | `https://github.com/vibecode/vibecode-cli/releases/download/v0.2.0/vibecode-cli-windows-amd64` |
 
 **Linux / macOS (try in order):**
 
